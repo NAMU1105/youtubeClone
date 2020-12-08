@@ -1,0 +1,9 @@
+.logo {
+  display: inline-block;
+}
+
+.header {
+  background-color: black;
+  margin-bottom: 1rem;
+  color: white;
+}

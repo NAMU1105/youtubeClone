@@ -1,8 +1,8 @@
 import React, { useState } from "react";
-import Header from "../components/header";
-import Main from "../components/mainVideoItems";
-import Detail from "../components/detailView";
-import Footer from "../components/footer";
+import Header from "../components/search_header/header";
+import Main from "../components/video_list/mainVideoItems";
+import Detail from "../components/video_detail/detailView";
+import Footer from "../components/footer/footer";
 import "./app.css";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 
